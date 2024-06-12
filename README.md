@@ -2,6 +2,7 @@
 
 This repository contains an inventory app built using SwiftUI and the Foundation Library. The app makes API calls to retrieve inventory data, which is displayed as a list of items. 
 The API is in JSON Format ( Javascript Object Notation ).
+On Clicking the Checkout Inventory Button, User will be able to view the items in inventory as a list.
 
 ## Screenshots
 
