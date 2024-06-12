@@ -1,27 +1,29 @@
-"inventories": [
-  {
-    "name": "Uncle Chips",
-    "link": "https://drive.usercontent.google.com/download?id=1MvSCfJ5HLHxl3C1S3uRNGIH3cHHkummo&export=download&authuser=0&confirm=t&uuid=5a9626ce-d953-4a4a-8676-49797bebcba7&at=APZUnTXuqWroly6e2hrpMVda2KJs:1718176540683",
-    "count": 1
-  },
-  {
-    "name": "Pringles",
-    "link": "https://drive.usercontent.google.com/download?id=1uXnbPzjAzZoyZgvRJvj3xA_ReDhhMMeC&export=download&authuser=0&confirm=t&uuid=3271eb63-22b9-4e24-a312-69a3381fdacc&at=APZUnTUgB8vD9jBq78eBfS5OazGh:1718177323497",
-    "count": 2
-  },
-  {
-    "name": "Pencil",
-    "link": "https://drive.usercontent.google.com/download?id=1af2F07DkoRp9GeZi2neoIz4S5hL3jUnt&export=download&authuser=0&confirm=t&uuid=8679e254-fa03-4855-92a7-26ce8688eb81&at=APZUnTUSUR3EgecZYmvjDtjTgq1g:1718177378872",
-    "count": 3
-  },
-  {
-    "name": "notebook",
-    "link": "https://drive.usercontent.google.com/download?id=1sTOf0fXyEgzBZq3ixGEMog4IhF10kZlj&export=download&authuser=0&confirm=t&uuid=b56fe48f-9585-493b-ad26-36088bc54580&at=APZUnTXCPjba_2Ki6UzAUX_XwZup:1718177417548",
-    "count": 4
-  },
-  {
-    "name": "eraser",
-    "link": "https://drive.usercontent.google.com/download?id=1oCXJehULq_EcFS6Q3wNjnRBF6s5Rmydn&export=download&authuser=0&confirm=t&uuid=2dd02b3e-bd20-4034-b213-5b97b0c6f08b&at=APZUnTUZrjoGLWRit8o_FJhNdG6z:1718177470819",
-    "count": 5
-  }
-]
+{
+  "inventories": [
+    {
+      "name": "Uncle Chips",
+      "link": "https://drive.usercontent.google.com/download?id=1MvSCfJ5HLHxl3C1S3uRNGIH3cHHkummo&export=download&authuser=0&confirm=t&uuid=5a9626ce-d953-4a4a-8676-49797bebcba7&at=APZUnTXuqWroly6e2hrpMVda2KJs:1718176540683",
+      "count": 1
+    },
+    {
+      "name": "Pringles",
+      "link": "https://drive.usercontent.google.com/download?id=1uXnbPzjAzZoyZgvRJvj3xA_ReDhhMMeC&export=download&authuser=0&confirm=t&uuid=3271eb63-22b9-4e24-a312-69a3381fdacc&at=APZUnTUgB8vD9jBq78eBfS5OazGh:1718177323497",
+      "count": 2
+    },
+    {
+      "name": "Pencil",
+      "link": "https://drive.usercontent.google.com/download?id=1af2F07DkoRp9GeZi2neoIz4S5hL3jUnt&export=download&authuser=0&confirm=t&uuid=8679e254-fa03-4855-92a7-26ce8688eb81&at=APZUnTUSUR3EgecZYmvjDtjTgq1g:1718177378872",
+      "count": 3
+    },
+    {
+      "name": "notebook",
+      "link": "https://drive.usercontent.google.com/download?id=1sTOf0fXyEgzBZq3ixGEMog4IhF10kZlj&export=download&authuser=0&confirm=t&uuid=b56fe48f-9585-493b-ad26-36088bc54580&at=APZUnTXCPjba_2Ki6UzAUX_XwZup:1718177417548",
+      "count": 4
+    },
+    {
+      "name": "eraser",
+      "link": "https://drive.usercontent.google.com/download?id=1oCXJehULq_EcFS6Q3wNjnRBF6s5Rmydn&export=download&authuser=0&confirm=t&uuid=2dd02b3e-bd20-4034-b213-5b97b0c6f08b&at=APZUnTUZrjoGLWRit8o_FJhNdG6z:1718177470819",
+      "count": 5
+    }
+  ]
+}
